@@ -1,0 +1,3 @@
+# Mock mode (the default) is pure standard library — nothing to install.
+# This dependency is ONLY needed for --real mode (live Claude API calls):
+anthropic
